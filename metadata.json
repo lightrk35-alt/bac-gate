@@ -1,0 +1,6 @@
+{
+  "name": "BAC;GATE",
+  "description": "تطبيق BAC;GATE من استوديو ZARQYNE — نمط اللعب الأول: اختبار التواريخ لمادة التاريخ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
